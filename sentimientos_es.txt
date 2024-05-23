@@ -63,14 +63,6 @@ adoptar 1
 adopta 1
 adorable 3
 adoro 3
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-1/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 adorado 3
 adora 3
 avanzado 1
@@ -136,14 +128,6 @@ angustiado -3
 animosidad -2
 molestar -2
 molestia -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-2/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 molesto -2
 molesto -2
 molesta -2
@@ -209,14 +193,6 @@ ataque -1
 atacado -1
 atacando -1
 ataques -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-3/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 atraer 1
 atraído 1
 atrayendo 2
@@ -282,14 +258,6 @@ desconsolado -2
 desconsolado -2
 duelos -2
 duelo -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-4/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 mejor 3
 traicionar -3
 traición -3
@@ -355,14 +323,6 @@ brillante 4
 enérgico 2
 rompió -1
 roto -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-5/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 inquietante -2
 intimidado -2
 mierda -4
@@ -428,14 +388,6 @@ tramposos -3
 trampas -3
 animar 2
 aplaudió 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-6/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 alegre 2
 animando 2
 triste -2
@@ -501,14 +453,6 @@ competitivo 2
 complaciente -2
 quejarse -2
 se quejó -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-7/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 se queja -2
 integral 2
 conciliar 2
@@ -574,14 +518,6 @@ más loco -2
 más loco -2
 loco -2
 creativo 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-8/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 abatido -2
 lloró -2
 llora -2
@@ -647,14 +583,6 @@ defecto -3
 defectos -3
 defensor 2
 defensores 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-9/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 indefenso -2
 diferir -1
 aplazando -1
@@ -720,14 +648,6 @@ destructivo -3
 separado -1
 detener -2
 detenido -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-10/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 detención -2
 determinado 2
 devastar -2
@@ -793,14 +713,6 @@ poco dispuesto -2
 desarticulado -2
 no me gusta -2
 triste -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-11/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 consternado -2
 desorden -2
 desorganizado -2
@@ -866,14 +778,6 @@ desventaja -2
 arrastrar -1
 arrastrado -1
 arrastra -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-12/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 drenado -2
 pavor -2
 temido -2
@@ -939,14 +843,6 @@ participar 1
 se compromete 1
 absorto 1
 disfruta 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-13/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 disfrutando 2
 disfruta 2
 iluminar 2
@@ -1012,14 +908,6 @@ exonerado 2
 exonera 2
 exonerando 2
 expandir 1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-14/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 se expande 1
 expulsar -2
 expulsado -2
@@ -1085,14 +973,6 @@ favorito 2
 favoritos 2
 favores 2
 miedo -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-15/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 temeroso -2
 temiendo -2
 valiente 2
@@ -1158,14 +1038,6 @@ frustrado -2
 frustra -2
 frustrante -2
 frustración -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-16/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 ftw 3
 joder -4
 follada -4
@@ -1231,14 +1103,6 @@ gratificación 2
 tumba -2
 gris -1
 genial 3
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-17/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 mayor 3
 mayor 3
 codicia -3
@@ -1304,14 +1168,6 @@ saludable 2
 desgarrador -3
 desconsolado -3
 sincero 3
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-18/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 cielo 2
 celestial 4
 de corazón pesado -2
@@ -1377,14 +1233,6 @@ hipócrita -2
 histeria -3
 histérico -3
 histeria -3
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-19/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 idiota -3
 idiota -3
 ignorancia -2
@@ -1450,14 +1298,6 @@ enamoramiento 2
 infectado -2
 inferiores -2
 inflamado -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-20/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 influyente 2
 infracción -2
 enfurecer -2
@@ -1523,14 +1363,6 @@ irracional -1
 irresistible 2
 indeciso -2
 irresponsable 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-21/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 irreversible -1
 irritar -3
 irritado -3
@@ -1596,14 +1428,6 @@ salir -1
 legales 1
 legalmente 1
 indulgente 1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-22/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 letárgico -2
 letargo -2
 mentiroso -3
@@ -1669,15 +1493,7 @@ locamente -3
 locura -3
 obligatorio -1
 manipulado -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-23/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-manipulando -1
+268manipulando -1
 manipulación -1
 maravilla 3
 maravilloso 3
@@ -1742,14 +1558,6 @@ burlado -2
 burlándose -2
 se burla -2
 traficante -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-24/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 monopolizar -2
 monopolizado -2
 monopoliza -2
@@ -1815,14 +1623,6 @@ obsceno -2
 obsesionado 2
 obsoleto -2
 obstáculo -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-25/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 obstáculos -2
 obstinado -2
 impar -2
@@ -1888,14 +1688,6 @@ pacífico 2
 pacíficamente 2
 penalización -2
 pensativo -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-26/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 perfecto 3
 perfeccionado 2
 perfectamente 3
@@ -1961,14 +1753,6 @@ orar 1
 orando 1
 reza 1
 problema -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-27/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 problemas -2
 preparado 1
 presión -1
@@ -2034,14 +1818,6 @@ cuestionando -1
 racismo -3
 racista -3
 racistas -3
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-28/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 rabia -2
 furioso -2
 lluvioso -1
@@ -2107,14 +1883,6 @@ resentido -2
 renunciar -1
 resignado -1
 renunciando -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-29/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 renuncia -1
 resuelto 2
 resolver 2
@@ -2180,14 +1948,6 @@ sabotaje -2
 triste -2
 entristecer -2
 entristecido -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-30/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 tristemente -2
 seguro 1
 con seguridad 1
@@ -2253,14 +2013,6 @@ sorprendido -2
 impactante -2
 choques -2
 disparar -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-31/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 miope -2
 miopía -2
 escasez -2
@@ -2326,14 +2078,6 @@ calmar 3
 calmado 3
 calmante 3
 sofisticado 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-32/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 dolorido -1
 tristeza -2
 triste -2
@@ -2399,14 +2143,6 @@ factor estresante -2
 factores estresantes -2
 afectado -2
 huelga -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-33/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 huelguistas -2
 huelgas -1
 fuerte 2
@@ -2472,14 +2208,6 @@ estafas -3
 estafa -3
 simpático 2
 simpatía 2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-34/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 tarde -2
 lágrimas -2
 tierno 2
@@ -2545,14 +2273,6 @@ temblando -2
 trémulo -2
 engañado -2
 engaño -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-35/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 triunfo 4
 triunfante 4
 problema -2
@@ -2618,14 +2338,6 @@ inestable -2
 imparable 2
 no soportado -2
 inseguro -1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-36/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 impecable 2
 no deseado -2
 indigno -2
@@ -2691,14 +2403,6 @@ cálido 1
 calidez 2
 advertir -2
 advertido -2
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-37/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 advertencia -3
 advertencias -3
 advierte -2
@@ -2764,14 +2468,6 @@ mal -2
 agraviado -2
 wtf -4
 si 1
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-38/39
-
-23/5/24, 15:25
-
-raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
 anhelo 1
 sii 2
 si 1
@@ -2781,9 +2477,5 @@ delicioso 3
 fanático -2
 fanáticos -2
 celoso 2
-
-https://raw.githubusercontent.com/patofw/imf_master/master/proyecto_final_datos/Sentimientos.txt
-
-39/39
 
 
