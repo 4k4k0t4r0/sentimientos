@@ -500,7 +500,7 @@ convence 1
 amigável 2
 ótimo 1
 coisas interessantes 3
--2 encurralados
+encurralados -2 
 cadáver -1
 caro -2
 coragem 2
@@ -1637,7 +1637,7 @@ sinistro 3
 uma vez na vida 3
 oportunidades 2
 oportunidade 2
--2 oprimido
+oprimido -2 
 opressivo -2
 otimismo 2
 otimista 2
@@ -2339,7 +2339,7 @@ imparável 2
 não suportado -2
 inseguro -1
 impecável 2
--2 indesejado
+indesejado -2 
 indigno -2
 irritante -2
 não gosta -2
@@ -2418,7 +2418,7 @@ rico 2
 cansado -2
 cry -2
 chorando -2
--2 raro
+raro -2 
 bem -vindo 2
 bem -vindo 2
 bem -vindo 2
